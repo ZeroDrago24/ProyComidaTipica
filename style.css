@@ -1,0 +1,32 @@
+*{
+  margin: 10px;
+
+}
+
+body{
+
+background-color: beige;
+
+}
+
+h2{
+  color: rgba(4, 13, 139, 0.699); 
+  font-size: 50px;
+
+}
+
+img{
+  text-align: center;
+  width: 300px;
+  height: 300px;
+}
+  
+p{
+
+background-color: rgb(248, 250, 143); border-color: rgb(21, 116, 119);
+
+color: rgb(6, 29, 94);
+
+font-family: 'Times New Roman', Times, serif;
+}
+
